@@ -63,8 +63,8 @@
         <!-- Bộ sưu tập ảnh -->
         <div class="gallery">
             <h2>Phòng trưng bày</h2>
-            <img src="https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_nh%C3%A2n_v%E1%BA%ADt_trong_Th%C3%A1m_t%E1%BB%AD_l%E1%BB%ABng_danh_Conan#/media/T%E1%BA%ADp_tin:Nhan_vat_Tham_tu_lung_danh_Conan.jpg" alt="Edogawa Conan" width="200">
-            <img src="https://vi.wikipedia.org/wiki/M%C5%8Dri_Ran#/media/T%E1%BA%ADp_tin:Mori_Ran.png" alt="Mori Ran" width="200">
+            <img src="https://media.baohungyen.vn/upload/image/202306/medium/56230_picture163_09480627.jpg" alt="Edogawa Conan" width="200">
+            <img src="https://static.wikia.nocookie.net/thamtulungdanhconan/images/9/92/Ran_Mouri_Profile.jpg/revision/latest?cb=20200417152016&path-prefix=vi" alt="Mori Ran" width="200">
             <img src="https://betapto.edu.vn/upload/2025/06/mori-001.webp" alt="Mori Kogoro" width="200">
         </div>
 
