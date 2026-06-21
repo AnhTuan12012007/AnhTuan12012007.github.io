@@ -64,7 +64,7 @@
         <div class="gallery">
             <h2>Phòng trưng bày</h2>
             <img src="https://media.baohungyen.vn/upload/image/202306/medium/56230_picture163_09480627.jpg" alt="Edogawa Conan" width="200">
-            <img src="https://static.wikia.nocookie.net/thamtulungdanhconan/images/9/92/Ran_Mouri_Profile.jpg/revision/latest?cb=20200417152016&path-prefix=vi" alt="Mori Ran" width="200">
+            <img src="https://i.pinimg.com/474x/75/21/b0/7521b000e1772a2c17aacc942ae2470b.jpg" width="200">
             <img src="https://betapto.edu.vn/upload/2025/06/mori-001.webp" alt="Mori Kogoro" width="200">
         </div>
 
