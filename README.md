@@ -63,9 +63,9 @@
         <!-- Bộ sưu tập ảnh -->
         <div class="gallery">
             <h2>Phòng trưng bày</h2>
-            <img src="./images/conan.jpeg" alt="Edogawa Conan" width="200">
-            <img src="./images/ran.jpg" alt="Mori Ran" width="200">
-            <img src="./images/kogoro.jpeg" alt="Mori Kogoro" width="200">
+            <img src="https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_nh%C3%A2n_v%E1%BA%ADt_trong_Th%C3%A1m_t%E1%BB%AD_l%E1%BB%ABng_danh_Conan#/media/T%E1%BA%ADp_tin:Nhan_vat_Tham_tu_lung_danh_Conan.jpg" alt="Edogawa Conan" width="200">
+            <img src="https://vi.wikipedia.org/wiki/M%C5%8Dri_Ran#/media/T%E1%BA%ADp_tin:Mori_Ran.png" alt="Mori Ran" width="200">
+            <img src="https://betapto.edu.vn/upload/2025/06/mori-001.webp" alt="Mori Kogoro" width="200">
         </div>
 
         <!-- Đường dẫn quay lại đầu trang -->
